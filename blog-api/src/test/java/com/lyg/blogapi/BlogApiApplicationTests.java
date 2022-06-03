@@ -17,6 +17,7 @@ class BlogApiApplicationTests {
         System.out.println("加油");
         System.out.println("加油");
         System.out.println("修改代码");
-         System.out.println("整合代码");
+        System.out.println("整合代码");
+        System.out.println("查找代码");
     }
 }
