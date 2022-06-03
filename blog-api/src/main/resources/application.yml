@@ -1,0 +1,37 @@
+
+server:
+  port: 8888
+
+
+spring:
+  datasource:
+    #    druid:
+    url: jdbc:mysql://localhost:172.17.0.3/blog?serverTimezone=Asia/Shanghai
+    username: root
+    password: lyg123
+#      type: com.alibaba.druid.pool.DruidDataSource
+
+
+#设置Mp相关的配置
+mybatis-plus:
+  global-config:
+    db-config:
+      table-prefix: ms_
+      id-type: auto
+
+
+#redis:
+#  host: 172.17.0.3
+#  port: 6379
+##  查询预编译的sql 开启mp运行日志
+#  configuration:
+#    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+#
+#  spring.servlet.multipart.max-request-size=20MB
+#  spring.servlet.multipart.max-file-size=2MB
+#
+
+
+
+
+

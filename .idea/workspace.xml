@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a52531b2-4365-4689-be3e-ccd97f2df071" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28Xk1He2SmmrShNQBFD4oqHF7nJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="D:/sport/sportplay" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lyg.blogapi.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\博客\admin\src\main\java\com\lyg\admin\service" />
+      <recent name="E:\博客\admin\src\main\resources\static" />
+      <recent name="E:\博客\blog-api\src\main\java\com\lyg\blogapi\utils" />
+      <recent name="E:\博客\blog-api\src\main\java\com\lyg\blogapi\vo\params" />
+      <recent name="E:\博客\blog-api\src\main\java\com\lyg\blogapi\dao\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lyg.admin.mapper" />
+      <recent name="com.lyg.admin.pojo" />
+      <recent name="com.lyg.admin.config" />
+      <recent name="com.lyg.admin.service" />
+      <recent name="com.lyg.admin.model.params" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BlogApiApplication">
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyg.admin.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blog-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyg.blogapi.BlogApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a52531b2-4365-4689-be3e-ccd97f2df071" name="Changes" comment="" />
+      <created>1651370101814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651370101814</updated>
+      <workItem from="1651370104066" duration="7399000" />
+      <workItem from="1651420065448" duration="4774000" />
+      <workItem from="1651480533987" duration="5908000" />
+      <workItem from="1651496729632" duration="8626000" />
+      <workItem from="1651544864713" duration="5052000" />
+      <workItem from="1651560411871" duration="1251000" />
+      <workItem from="1651564666078" duration="1363000" />
+      <workItem from="1651568249001" duration="778000" />
+      <workItem from="1651584746823" duration="6624000" />
+      <workItem from="1651634043328" duration="1193000" />
+      <workItem from="1651741707600" duration="15206000" />
+      <workItem from="1651993943809" duration="1670000" />
+      <workItem from="1651995930283" duration="4089000" />
+      <workItem from="1652005983427" duration="234000" />
+      <workItem from="1652246749389" duration="496000" />
+      <workItem from="1652372988104" duration="101000" />
+      <workItem from="1652692546290" duration="21000" />
+      <workItem from="1652805791347" duration="690000" />
+      <workItem from="1652832878845" duration="2045000" />
+      <workItem from="1652886728724" duration="2988000" />
+      <workItem from="1652949612699" duration="14412000" />
+      <workItem from="1653098339433" duration="7254000" />
+      <workItem from="1653139470427" duration="2650000" />
+      <workItem from="1653192538009" duration="12000" />
+      <workItem from="1653572631739" duration="1241000" />
+      <workItem from="1653637371461" duration="1740000" />
+      <workItem from="1653840004762" duration="1258000" />
+      <workItem from="1653898536116" duration="1345000" />
+      <workItem from="1653977248343" duration="1405000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/blog-api/src/main/java/com/lyg/blogapi/handler/LoginInterceptor.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
