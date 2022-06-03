@@ -9,5 +9,10 @@ class BlogApiApplicationTests {
     @Test
     void contextLoads() {
     }
-
+    @Test
+    public void show(){
+        System.out.println("显示代码");
+        System.out.println("hello");
+        System.out.println("加油");
+    }
 }
