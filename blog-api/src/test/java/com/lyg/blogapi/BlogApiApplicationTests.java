@@ -14,5 +14,7 @@ class BlogApiApplicationTests {
         System.out.println("显示代码");
         System.out.println("hello");
         System.out.println("加油");
+        System.out.println("加油");
+        System.out.println("加油");
     }
 }
